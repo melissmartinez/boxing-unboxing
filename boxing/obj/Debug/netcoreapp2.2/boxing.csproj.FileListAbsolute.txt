@@ -1,0 +1,4 @@
+/Users/melissaa.martinez/Desktop/Csharp_Stack/boxing/obj/Debug/netcoreapp2.2/boxing.csprojAssemblyReference.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/boxing/obj/Debug/netcoreapp2.2/boxing.csproj.CoreCompileInputs.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/boxing/obj/Debug/netcoreapp2.2/boxing.AssemblyInfoInputs.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/boxing/obj/Debug/netcoreapp2.2/boxing.AssemblyInfo.cs
